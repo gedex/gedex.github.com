@@ -1,7 +1,7 @@
 name: "Akeda Bagus"
 email: "admin@gedex.web.id"
 description: "Web developer from Indonesia"
-url: "http://localhost:4000"
+url: "http://gedex.web.id"
 
 # posts per page
 paginate: 10
