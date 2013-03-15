@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<article>
+    <header>
+        <h2 class="entry-title">
+            {{ page.title }}
+        </h2>
+    </header>
+    <section class="entry-content">
+        {{ content }}
+    </section>
+</article>
+
+{% unless page.comments == false %}
+    {% include comments.html %}
+{% endunless %}

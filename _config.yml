@@ -1,0 +1,26 @@
+name: "Akeda Bagus"
+email: "admin@gedex.web.id"
+description: "Web developer from Indonesia"
+url: "http://localhost:4000"
+
+# posts per page
+paginate: 10
+
+# number of items in RSS feed
+rss_limit: 10
+
+# permalink structure, see https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink: /:year/:month/:day/:title/
+
+# commenting widget
+disqus:
+  shortname: 'akeda'
+
+#google analytics username
+ga_username: ''
+
+#build config
+server: true
+auto: true
+markdown: rdiscount
+pygments: true

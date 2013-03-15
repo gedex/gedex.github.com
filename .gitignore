@@ -1,0 +1,33 @@
+### /Users/akeda/.gitignore-boilerplates/Ruby.gitignore
+
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
+
+
+### /Users/akeda/.gitignore-boilerplates/Global/SublimeText.gitignore
+
+# SublimeText project files
+*.sublime-workspace
+
+
+### /Users/akeda/.gitignore-boilerplates/Jekyll.gitignore
+
+_site/
+
+

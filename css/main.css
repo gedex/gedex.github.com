@@ -1,0 +1,346 @@
+/* ==========================================================================
+   HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
+   ========================================================================== */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+body {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+img {
+    vertical-align: middle;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.chromeframe {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    font-family: "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+}
+
+code, pre, .code {
+    font-family: "Droid Sans Mono", monospace;
+}
+
+p code {
+    font-size: 80%;
+}
+
+a {
+    color: #08c;
+    text-decoration: underline;
+}
+a:hover {
+    color: #005580;
+}
+a:visited {
+    color: #005580;
+}
+
+body {
+    background-color: #8d8ba6;
+
+    font-family: 'Crimson Text', serif;
+    color: #444;
+}
+
+.wrapper {
+    position: relative;
+    max-width: 580px;
+    margin: 0 auto;
+    background-color: #fff;
+    /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);*/
+    box-shadow: 0 5px 15px rgba(0,0,0,0.5),
+                0 3px 5px rgba(0,0,0,0.2);
+}
+
+.header {
+    position: relative;
+
+    background: #282537;
+    background-image: -webkit-radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
+    background-image: -moz-radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
+    background-image: -o-radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
+    background-image: radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
+
+    padding: 0 1.875em;
+}
+
+.header .title {
+    margin-bottom: 0;
+    text-align: center;
+    color: #8d8ba6;
+    text-shadow: 1px 1px 5px rgba(0,0,0,.5);
+}
+
+.header nav {
+    width: 70%;
+    margin: 0 15%;
+    margin-bottom: 2%;
+
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
+    -webkit-box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.7), inset 0 2px 2px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.7), inset 0 2px 2px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+}
+
+.header nav ul {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.header nav li {
+    float: left;
+    width: 25%;
+}
+
+.header nav a {
+    display: block;
+    padding: 15px 0;
+
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-shadow: 0 1px 1px black;
+
+    font: 12px/20px "Lucida Grande", Tahoma, Verdana, sans-serif;
+    color: #8d8ba6;
+}
+
+.header nav a:hover,
+.header nav .active {
+    color: rgba(255,255,255,.75);
+}
+
+.main-content {
+    margin: 0 1px;
+    padding: 0 1.875em 1.875em;
+    box-shadow: inset 0 0 15px rgba(140, 138, 153, .5);
+}
+
+article header {
+    position: relative;
+}
+
+.entry-title {
+    margin-bottom: 0;
+    font-size: 2em;
+}
+
+.entry-title a {
+    text-decoration: none;
+    color: #333;
+}
+.entry-title a:hover {
+    color: #333;
+}
+
+.entry-date {
+    color: #999;
+}
+
+.pagination {
+    position: relative;
+    text-align: center;
+    font-family: "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+}
+
+.pagination a {
+    display: block;
+    padding: 5px 10px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.pagination a:hover {
+    text-decoration: none;
+}
+
+.pagination .prev {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.pagination .next {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.comments {
+    margin-top: 1.875em;
+}
+
+.footer {
+    background: #282537;
+    background-image: -webkit-radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
+    background-image: -moz-radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
+    background-image: -o-radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
+    background-image: radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
+
+    margin: 0;
+    padding: 1.25em 1.875em;
+
+    color: #8d8ba6;
+
+    font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    text-shadow: 0 1px 1px black;
+    text-align: center;
+}
+
+.footer span {
+    font-size: 75%;
+}
+
+.footer a {
+    color: rgba(255,255,255,.75);
+    text-decoration: none;
+}
+
+/* ===============
+    ALL: IE Fixes
+   =============== */
+
+.ie7 .title {
+    padding-top: 20px;
+}
+
+@media only screen and (max-width: 480px) {
+    .header nav li {
+        float: none;
+        width: 100%;
+    }
+}
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   Print styles
+   ========================================================================== */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}

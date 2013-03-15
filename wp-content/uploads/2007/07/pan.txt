@@ -1,0 +1,306 @@
+Level 1
+Berikut ini, yang bukan termasuk network dari alamat IP 200.250.168.0/21.
+
+
+Dari kode berikut ini di "variable" mana terjadi overflow?
+#include 
+#include 
+
+void overflow(void) {
+	char input[20];
+	char key[5];
+	gets(input);
+	printf("%s\n",input);
+}
+
+int main() {
+	overflow();
+	return 0;
+}
+
+[kumpulan]
+1. DNS protokol
+1. pembagian subnet : 32 (yg masuk 95,127,255)
+2. lpr pada syslog.conf : c.lpr
+3. confidentiality data for PC : file encrytion 
+4. model Lattice Based Access Control
+5. LOMAC -> for linux
+6. Praktisi analisis kriptografi :cryptaanalyst
+7. chiper text rumus
+9. mod
+12. gets(
+
+
+Dari kode berikut ini di "variable" mana terjadi overflow?
+
+#include 
+#include 
+
+void overflow(void) {
+	char input[20];
+	char key[5];
+	gets(input);
+	printf("%s\n",input);
+}
+
+int main() {
+	overflow();
+	return 0;
+}
+
+aspirasi md5
+
+#include 
+#include 
+
+void overflow(void) {
+	char input[20];
+	char key[5];
+	gets(input);
+	printf("%s\n",input);
+}
+
+int main() {
+	overflow();
+	return 0;
+}
+
+
+a. void overflow(void)
+b. gets(input)
+c. printf("%s\n",input)
+d. int main()
+
+Bagaimana seharusnya koreksi kode yang benar?
+
+#include 
+#include 
+
+void overflow(void) {
+	char input[20];
+	char key[5];
+	gets(input);
+	printf("%s\n",input);
+}
+
+int main() {
+	overflow();
+	return 0;
+}
+
+
+a. char input[100];
+b. char key[300];
+c. char input 
+d. char key*
+
+Level 10
+0x6e72d88596afa19798781b4c3568f1c8
+a.National Hacking 
+b.100 Notebook 
+c.Acer Aspire
+d.Sang Juara
+
+11 ,Berikut adalah tipe enkapsulasi yang dapat di gunakan pada koneksi Leased Line
+a.HDLC 
+b.Frame Relay
+c.ISDN
+d.MPLS
+e.CSMA/CD
+
+13.Untuk mencegah PiggyBacking, mekanisme apa yang paling baik untuk di terapkan pada pintu akses
+a.One-way door, dimana pengguna tidak di perbolehkan keluar menggunakan pintu yang sama 
+b.Monitored double-doorway entry system
+c.Monitored turnstile entry system 
+d.Two-way door system
+e.Monitored doorway entry system 
+
+
+3. Anda adalah seorang manager HRD dan akan mengangkat pegawai baru. Langkah apa yang harus di lakukan untuk memastikanbahwa karyawan tersebut memiliki kesadaran yang cukup terkait keamanan Informasi
+a.Background Screening (x)
+b.Referensi
+c.Kualifikasi dari CV
+d.Test Psikologi
+e.Wawancara
+
+4.Dalam contoh berikut, yang bukan termasuk dalam kelompok Single Sign On adalah
+a.RADIUS 
+b.SESAME 
+c.NetSP 
+d.One Time Password 
+e.Keberos 
+
+-------------------------------------------------------------------------------------------
+202.153.159.20 
+ISP PT. MILLENIUM INTERNETINDO
+
+C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2>nmap -vv -A -P0 panhac.mar
+veltechnology.com
+
+Starting Nmap 4.22SOC2 ( http://insecure.org ) at 2007-07-24 00:43 SE Asia Stand
+ard Time
+Initiating Parallel DNS resolution of 1 host. at 00:43
+Completed Parallel DNS resolution of 1 host. at 00:43, 0.17s elapsed
+Initiating SYN Stealth Scan at 00:43
+Scanning 202.153.159.20 [1705 ports]
+Discovered open port 80/tcp on 202.153.159.20
+SYN Stealth Scan Timing: About 31.17% done; ETC: 00:44 (0:01:06 remaining)
+Completed SYN Stealth Scan at 00:44, 75.23s elapsed (1705 total ports)
+Initiating Service scan at 00:44
+Scanning 1 service on 202.153.159.20
+Completed Service scan at 00:44, 6.11s elapsed (1 service on 1 host)
+Initiating OS detection (try #1) against 202.153.159.20
+Retrying OS detection (try #2) against 202.153.159.20
+Initiating gen1 OS Detection against 202.153.159.20 at 87.218s
+For OSScan assuming port 80 is open, tcp/113 and udp/38625 are closed, and neith
+er are firewalled
+Initiating Traceroute at 00:44
+202.153.159.20: guessing hop distance at 5
+Completed Traceroute at 00:44, 9.59s elapsed
+Initiating Parallel DNS resolution of 6 hosts. at 00:44
+Completed Parallel DNS resolution of 6 hosts. at 00:44, 0.27s elapsed
+SCRIPT ENGINE: Initiating script scanning.
+LUA INTERPRETER in ..\nse_init.cc:628: ...\judge\Desktop\nmap-4.22SOC2\scripts\b
+ruteTelnet.nse:9: module 'strbuf' not found:
+        no field package.preload['strbuf']
+        no file 'C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2\nselib\st
+rbuf.lua'
+        no file '.\strbuf.lua'
+        no file 'C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2\lua\strbu
+f.lua'
+        no file 'C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2\lua\strbu
+f\init.lua'
+        no file 'C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2\strbuf.lu
+a'
+        no file 'C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2\strbuf\in
+it.lua'
+        no file 'C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2\nselib\st
+rbuf.dll'
+        no file '.\strbuf.dll'
+        no file 'C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2\strbuf.dl
+l'
+        no file 'C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2\loadall.d
+ll'
+SCRIPT ENGINE: Aborting script scan.
+
+Host 202.153.159.20 appears to be up ... good.
+Interesting ports on 202.153.159.20:
+Not shown: 1702 filtered ports
+PORT    STATE  SERVICE VERSION
+80/tcp  open   http    Apache httpd 2.0.55 ((Ubuntu) PHP/5.1.6)
+113/tcp closed auth
+443/tcp closed https
+Device type: broadband router
+Running: Panasonic embedded
+OS details: Panasonic IP Technology Broadband Networking Gateway, KX-HGW200
+OS Fingerprint:
+OS:SCAN(V=4.22SOC2%D=7/24%OT=80%CT=113%CU=%PV=N%G=N%TM=46A4E907%P=i686-pc-w
+OS:indows-windows)TSeq(Class=RI%gcd=1%SI=5B4123%IPID=Z%TS=100HZ)T1(Resp=Y%D
+OS:F=Y%W=16A0%ACK=S++%Flags=AS%Ops=MNNTNW)T2(Resp=N)T3(Resp=N)T4(Resp=N)T5(
+OS:Resp=Y%DF=N%W=0%ACK=S++%Flags=AR%Ops=)T6(Resp=N)T7(Resp=N)PU(Resp=N)
+
+Uptime: 49.289 days (since Mon Jun 04 17:48:56 2007)
+TCP Sequence Prediction: Difficulty=5980451 (Good luck!)
+IPID Sequence Generation: All zeros
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT       ADDRESS
+1   736247.38 0.0.0.0
+2   ...
+3   78.00     121.subnet125-160-0.speedy.telkom.net.id (125.160.0.121)
+4   63.00     thenet.openixp.net (218.100.27.132)
+5   47.00     202.153.159.20
+
+Read data files from: C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2
+OS and Service detection performed. Please report any incorrect results at http:
+//insecure.org/nmap/submit/ .
+Nmap finished: 1 IP address (1 host up) scanned in 99.265 seconds
+               Raw packets sent: 3537 (161.572KB) | Rcvd: 63 (6062B)
+
+C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2>nmap -vv -A -P0 panhac.mar
+veltechnology.com
+
+C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2>nmap -sS -P0 -vv -A -T4 pa
+nhac.marveltechnology.com
+
+Starting Nmap 4.22SOC2 ( http://insecure.org ) at 2007-07-24 15:15 SE Asia Stand
+ard Time
+Initiating Parallel DNS resolution of 1 host. at 15:15
+Completed Parallel DNS resolution of 1 host. at 15:15, 0.34s elapsed
+Initiating SYN Stealth Scan at 15:15
+Scanning 202.153.159.20 [1705 ports]
+Discovered open port 80/tcp on 202.153.159.20
+SYN Stealth Scan Timing: About 26.19% done; ETC: 15:16 (0:01:24 remaining)
+Completed SYN Stealth Scan at 15:16, 98.88s elapsed (1705 total ports)
+Initiating Service scan at 15:16
+Scanning 1 service on 202.153.159.20
+Completed Service scan at 15:16, 6.08s elapsed (1 service on 1 host)
+Initiating OS detection (try #1) against 202.153.159.20
+Retrying OS detection (try #2) against 202.153.159.20
+Initiating gen1 OS Detection against 202.153.159.20 at 111.562s
+For OSScan assuming port 80 is open, tcp/113 and udp/37724 are closed, and neith
+er are firewalled
+Initiating Traceroute at 15:16
+202.153.159.20: guessing hop distance at 5
+Completed Traceroute at 15:17, 10.13s elapsed
+Initiating Parallel DNS resolution of 6 hosts. at 15:17
+Completed Parallel DNS resolution of 6 hosts. at 15:17, 0.25s elapsed
+SCRIPT ENGINE: Initiating script scanning.
+LUA INTERPRETER in ..\nse_init.cc:628: ...\judge\Desktop\nmap-4.22SOC2\scripts\b
+ruteTelnet.nse:9: module 'strbuf' not found:
+        no field package.preload['strbuf']
+        no file 'C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2\nselib\st
+rbuf.lua'
+        no file '.\strbuf.lua'
+        no file 'C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2\lua\strbu
+f.lua'
+        no file 'C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2\lua\strbu
+f\init.lua'
+        no file 'C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2\strbuf.lu
+a'
+        no file 'C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2\strbuf\in
+it.lua'
+        no file 'C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2\nselib\st
+rbuf.dll'
+        no file '.\strbuf.dll'
+        no file 'C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2\strbuf.dl
+l'
+        no file 'C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2\loadall.d
+ll'
+SCRIPT ENGINE: Aborting script scan.
+
+Host 202.153.159.20 appears to be up ... good.
+Interesting ports on 202.153.159.20:
+Not shown: 1702 filtered ports
+PORT    STATE  SERVICE VERSION
+80/tcp  open   http    Apache httpd 2.0.55 ((Ubuntu) PHP/5.1.6)
+113/tcp closed auth
+443/tcp closed https
+Device type: broadband router
+Running: Panasonic embedded
+OS details: Panasonic IP Technology Broadband Networking Gateway, KX-HGW200
+OS Fingerprint:
+OS:SCAN(V=4.22SOC2%D=7/24%OT=80%CT=113%CU=%PV=N%G=N%TM=46A5B583%P=i686-pc-w
+OS:indows-windows)TSeq(Class=RI%gcd=2%SI=1FC3B1%IPID=Z%TS=100HZ)T1(Resp=Y%D
+OS:F=Y%W=16A0%ACK=S++%Flags=AS%Ops=MNNTNW)T2(Resp=N)T3(Resp=N)T4(Resp=N)T5(
+OS:Resp=Y%DF=N%W=0%ACK=S++%Flags=AR%Ops=)T6(Resp=N)T7(Resp=N)PU(Resp=N)
+
+Uptime: 49.895 days (since Mon Jun 04 17:48:59 2007)
+TCP Sequence Prediction: Difficulty=2081713 (Good luck!)
+IPID Sequence Generation: All zeros
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT   ADDRESS
+1   ...
+2   94.00 1.subnet125-160-232.speedy.telkom.net.id (125.160.232.1)
+3   78.00 121.subnet125-160-0.speedy.telkom.net.id (125.160.0.121)
+4   62.00 thenet.openixp.net (218.100.27.132)
+5   46.00 202.153.159.20
+
+Read data files from: C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2
+OS and Service detection performed. Please report any incorrect results at http:
+//insecure.org/nmap/submit/ .
+Nmap finished: 1 IP address (1 host up) scanned in 124.718 seconds
+               Raw packets sent: 3540 (161.704KB) | Rcvd: 82 (4703B)
+
+C:\Documents and Settings\judge\Desktop\nmap-4.22SOC2>
