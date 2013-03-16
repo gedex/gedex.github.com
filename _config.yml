@@ -17,7 +17,7 @@ disqus:
   shortname: 'akeda'
 
 #google analytics username
-ga_username: ''
+ga_username: 'UA-2410626-1'
 
 #build config
 server: true
