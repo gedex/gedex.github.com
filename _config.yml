@@ -1,4 +1,5 @@
-name: "Akeda Bagus"
+name: "Akeda Bagus's Website"
+author: "Akeda Bagus"
 email: "admin@gedex.web.id"
 description: "Web developer from Indonesia"
 url: "http://gedex.web.id"
@@ -15,6 +16,8 @@ permalink: /:year/:month/:day/:title/
 # commenting widget
 disqus:
   shortname: 'akeda'
+
+feedburner: 'akedabagus'
 
 #google analytics username
 ga_username: 'UA-2410626-1'
