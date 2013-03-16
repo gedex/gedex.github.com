@@ -182,6 +182,10 @@ article header {
     color: #999;
 }
 
+.entry-content .read-more {
+    font-style: italic;
+}
+
 .pagination {
     position: relative;
     text-align: center;

@@ -13,7 +13,13 @@ layout: default
         <span class="entry-date">Posted on {{ page.date | date: '%B %d, %Y' }}</span>
     </header>
     <section class="entry-content">
-        {{ page.content }}
+        {{ page.content | replace: "<!-- more -->", "<!-- more " }}
+        {% if page.content contains "<!-- more -->" %}
+          -->
+        <p>
+            <a href="{{ site.url }}{{ page.url }}" class="read-more">Continue reading {{ page.title }} &raquo;</a>
+        </p>
+        {% endif %}
     </section>
     <section class="related-entries">
         <ul class="posts">
