@@ -186,6 +186,22 @@ article header {
     font-style: italic;
 }
 
+.entry footer {
+    height: 0.6875em;
+    position: relative;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+    color: #ccc;
+}
+
+.entry footer span {
+    position: absolute;
+    top: 0;
+    left: 45%;
+    width: 10%;
+    background-color: #fff;
+}
+
 .pagination {
     position: relative;
     text-align: center;
