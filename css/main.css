@@ -231,9 +231,46 @@ article header {
     right: 0;
 }
 
+/* ===============
+    ARCHIVE
+   =============== */
+
+.archive {
+    /*padding-top: 1.875em;*/
+}
+
+.archive h2 {
+    margin-top: 1.875em;
+    border-bottom: 1px solid #ccc;
+    line-height: 1px;
+    text-align: center;
+}
+
+.archive h2 span {
+    background-color: #fff;
+    padding: 0 10px;
+}
+
+.archive ul {
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.archive li {
+    list-style: none;
+}
+
+/* ===============
+    COMMENTS
+   =============== */
+
 .comments {
     margin-top: 1.875em;
 }
+
+/* ===============
+    FOOTER
+   =============== */
 
 .footer {
     background: #282537;

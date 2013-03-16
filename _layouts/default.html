@@ -44,7 +44,7 @@
                 </nav>
             </header>
 
-            <div id="content" class="main-content clearfix">
+            <div id="content" class="main-content clearfix{% if page.classes %} {{ page.classes }}{% endif %}">
                 {{ content }}
             </div>
 
