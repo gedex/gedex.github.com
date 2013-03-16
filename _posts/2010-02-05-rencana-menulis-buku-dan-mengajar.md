@@ -1,5 +1,6 @@
 ---
 title: Rencana Menulis Buku dan Mengajar
+excerpt: "Rencana Menulis Buku dan Mengajar"
 author: gedex
 layout: post
 pvc_views:
@@ -13,7 +14,11 @@ tags:
   - mengajar
 ---
 
-Ketika seseorang bertanya hal teknis, saya sering memberi jawaban untuk *googling* (mungkin sedang tidak *mood* untuk menjelaskan) tapi terkadang saya memberi jawaban panjang lebar (yang mungkin malah membuat sipenanya semakin bingung). Saya yakin kesalahan ada pada saya dalam hal menjelaskan. Untuk itu saya berusaha mengasah cara penyampaian dengan mulai [berbicara di depan banyak orang][1]. Jika tidak halangan, insyaallah, hari sabtu dan minggu saya akan membawakan materi di acara bertema Joomla di Paramadina. Dengan membiasakan diri menyampaikan materi di depan banyak orang, saya berharap ke depannya akan lebih mudah menyampaikan suatu materi kepada orang lain. Di waktu saya yang tidak terlalu sibuk ini, saya terpikir ingin menulis buku dan mengajar. Untuk menulis buku ada beberapa tema yang ingin saya tuliskan, antara lain: Python atau Django, cakePHP, jQuery dan HTML5 CSS3. Saya tidak tahu apakah tema-tema tersebut sudah banyak bukunya atau belum di Indonesia. Mungkin saya akan survey dulu untuk mencari tahu. Saya juga tidak tahu penerbit buku mana yang tepat untuk tema komputer. Rencana saya (kalau memungkinkan) adalah menggratiskan pengunduhan buku dalam format pdf atau HTML, tapi memungkinkan orang lain untuk mendapatkan *hardcopy* buku tersebut di toko buku. Ini seperti buku [Dive Into Python][2]. Saya tidak tahu apakah ada penerbit buku di Indonesia seperti [Apress][3]. Apakah memungkinkan di Indonesia jika tulisan kita lisensikan di bawah lisensi [*Creative Common*][4] tapi penerbit mau mencetaknya?
+Ketika seseorang bertanya hal teknis, saya sering memberi jawaban untuk *googling* (mungkin sedang tidak *mood* untuk menjelaskan) tapi terkadang saya memberi jawaban panjang lebar (yang mungkin malah membuat sipenanya semakin bingung). Saya yakin kesalahan ada pada saya dalam hal menjelaskan. Untuk itu saya berusaha mengasah cara penyampaian dengan mulai [berbicara di depan banyak orang][1]. Jika tidak halangan, insyaallah, hari sabtu dan minggu saya akan membawakan materi di acara bertema Joomla di Paramadina. Dengan membiasakan diri menyampaikan materi di depan banyak orang, saya berharap ke depannya akan lebih mudah menyampaikan suatu materi kepada orang lain.
+
+<!-- more -->
+
+Di waktu saya yang tidak terlalu sibuk ini, saya terpikir ingin menulis buku dan mengajar. Untuk menulis buku ada beberapa tema yang ingin saya tuliskan, antara lain: Python atau Django, cakePHP, jQuery dan HTML5 CSS3. Saya tidak tahu apakah tema-tema tersebut sudah banyak bukunya atau belum di Indonesia. Mungkin saya akan survey dulu untuk mencari tahu. Saya juga tidak tahu penerbit buku mana yang tepat untuk tema komputer. Rencana saya (kalau memungkinkan) adalah menggratiskan pengunduhan buku dalam format pdf atau HTML, tapi memungkinkan orang lain untuk mendapatkan *hardcopy* buku tersebut di toko buku. Ini seperti buku [Dive Into Python][2]. Saya tidak tahu apakah ada penerbit buku di Indonesia seperti [Apress][3]. Apakah memungkinkan di Indonesia jika tulisan kita lisensikan di bawah lisensi [*Creative Common*][4] tapi penerbit mau mencetaknya?
 
  [1]: http://gedex.web.id/archives/2009/12/05/seminar-go-open-source-di-sma-sudirman-bekasi/
  [2]: http://diveintopython3.org/

@@ -1,5 +1,6 @@
 ---
 title: Mendapatkan Visa Amerika
+excerpt: "Saya akan berbagi pengalaman bagaimana cara mendapatkan visa Non-Immigrant Amerika, yang katanya terkenal sulit. Pengalaman saya adalah mendapatkan visa jenis B1/B2 (business dan pleasure)."
 author: gedex
 layout: post
 pvc_views:
@@ -12,7 +13,9 @@ tags:
   - visa
 ---
 
-Saya akan berbagi pengalaman bagaimana cara mendapatkan visa *Non-Immigrant* Amerika, yang “katanya” terkenal sulit. Pengalaman saya adalah mendapatkan visa jenis B1/B2 (*business* dan *pleasure*). Untuk mengetahui jenis visa, lihat halaman [disini][1]. Saat *apply* visa, harap sesuaikan jenis visa dengan maksud/tujuan Anda ke Amerika. Visa B1/B2 dapat digunakan untuk keperluan bisnis, konferensi, pengobatan, kunjungan keluarga, turis, rekreasi dan lainnya. Pada kasus saya, tujuan datang ke Amerika adalah untuk menghadiri developer meeting. Prosedur pembuatan visa Amerika sekarang agak sedikit berbeda dengan prosedur beberapa tahun yang lalu, dan sekarang terasa lebih mudah karena semua form dapat kita isi secara online dan pembayaran MRV (biaya *visa application*) dapat dilakukan kapan saja setelah form terisi lengkap. Okay, langkah-langkah berikutlah yang membuat saya mendapatkan kertas putih bertuliskan “*…Your U.S visa application is approved…*“:
+Saya akan berbagi pengalaman bagaimana cara mendapatkan visa *Non-Immigrant* Amerika, yang “katanya” terkenal sulit. Pengalaman saya adalah mendapatkan visa jenis B1/B2 (*business* dan *pleasure*). Untuk mengetahui jenis visa, lihat halaman [disini][1]. Saat *apply* visa, harap sesuaikan jenis visa dengan maksud/tujuan Anda ke Amerika. Visa B1/B2 dapat digunakan untuk keperluan bisnis, konferensi, pengobatan, kunjungan keluarga, turis, rekreasi dan lainnya. Pada kasus saya, tujuan datang ke Amerika adalah untuk menghadiri developer meeting. Prosedur pembuatan visa Amerika sekarang agak sedikit berbeda dengan prosedur beberapa tahun yang lalu, dan sekarang terasa lebih mudah karena semua form dapat kita isi secara online dan pembayaran MRV (biaya *visa application*) dapat dilakukan kapan saja setelah form terisi lengkap. Okay, langkah-langkah berikutlah yang membuat saya mendapatkan kertas putih bertuliskan "*…Your U.S visa application is approved…*":
+
+<!-- more -->
 
  [1]: http://jakarta.usembassy.gov/nonimmigrant-visas.html "jenis visa"
 

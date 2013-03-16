@@ -1,5 +1,6 @@
 ---
 title: Buku-template
+excerpt: "Recently I’m writing a 'buku-template', another open source project to write html book in Markdown."
 author: gedex
 layout: post
 categories:

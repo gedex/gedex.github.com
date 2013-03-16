@@ -13,7 +13,11 @@ tags:
   - sendmail
 ---
 
-Yang umum dalam halaman pendaftaran adalah selesai mendaftar akan ada konfirmasi telah mendaftar. Halaman konfirmasi tersebut bisa saja dengan halaman web atau dikirim ke email pendaftar. Kebetulan saya sedang mengerjakan hal serupa dimana konfirmasi juga dikirimkan ke email pendaftar. Saya menggunakan CakePHP untuk mengembangkan aplikasi, dimana telah tersedia komponen Email untuk memudahkan pekerjaan seperti ini. Penjelasan di [cookbook CakePHP, bagian Email Component][1] itu sudah cukup jelas dan sudah saya coba. Tapi jika Anda mengalami kendala tidak terkirimnya Email, mungkin saja sistem operasi Anda belum terinstall MTA (Mail Transfer Agent). Anda bisa gunakan sendmail. Instalasi MTA dan asosiasinya dengan DNS Server-nya tidak akan saya jelaskan disini, saya sendiripun belum pernah mencoba!. Untuk coba-coba saat pengembangan, Anda bisa menggunakan MTA sendmail. Saya menggunakan Ubuntu, untuk menginstall-nya gunakan perintah ini:
+Yang umum dalam halaman pendaftaran adalah selesai mendaftar akan ada konfirmasi telah mendaftar. Halaman konfirmasi tersebut bisa saja dengan halaman web atau dikirim ke email pendaftar. Kebetulan saya sedang mengerjakan hal serupa dimana konfirmasi juga dikirimkan ke email pendaftar. Saya menggunakan CakePHP untuk mengembangkan aplikasi, dimana telah tersedia komponen Email untuk memudahkan pekerjaan seperti ini. Penjelasan di [cookbook CakePHP, bagian Email Component][1] itu sudah cukup jelas dan sudah saya coba. Tapi jika Anda mengalami kendala tidak terkirimnya Email, mungkin saja sistem operasi Anda belum terinstall MTA (Mail Transfer Agent). Anda bisa gunakan sendmail. Instalasi MTA dan asosiasinya dengan DNS Server-nya tidak akan saya jelaskan disini, saya sendiripun belum pernah mencoba!. Untuk coba-coba saat pengembangan, Anda bisa menggunakan MTA sendmail.
+
+<!-- more -->
+
+Saya menggunakan Ubuntu, untuk menginstall-nya gunakan perintah ini:
 
  [1]: http://book.cakephp.org/view/176/Email
 

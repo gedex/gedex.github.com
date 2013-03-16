@@ -14,6 +14,8 @@ tags:
 
 Apabila kita bekerja dengan konsol dan ingin mengetahui struktur direktori tertentu biasanya kita melakukannya dengan perintah `ls nama_direktori`, lalu kita `ls` lagi direktori di dalamnya. Jika kita bekerja di desktop, kita dapat mengetahui struktur direktori tertentu dengan membuka penjelajah berkas (*file browser*). Sebenarnya di konsol, ada perintah `tree` untuk melihat senarai direktori dalam format *tree*.
 
+<!-- more -->
+
 > tree – list contents of directories in a tree-like format.
 
 Saya menggunakan ubuntu, cukup mudah menginstalnya jika perintah `tree` belum tersedia.
@@ -56,9 +58,9 @@ Lalu kita lihat seperti apa keluarannya:
     |-- user.php
     |-- user_log.php
     `-- volume.php
-    
+
     2 directories, 30 files
-    
+
 
 
 
