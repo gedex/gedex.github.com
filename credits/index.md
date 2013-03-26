@@ -7,7 +7,7 @@ layout: page
 This site is powered by Jekyll and Github pages and available on
 [my repo][1]. Layout was bootstrapped with [HTML5 boilerplate][2].
 
-Previously this domain ran a blog powered by Wordpress and
+Previously this domain ran a blog powered by WordPress and
 migrated using Ben Balter's plugin.
 
 ## Header and Footer style
