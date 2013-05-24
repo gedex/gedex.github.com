@@ -10,7 +10,7 @@ and my beautiful daughter Myeisha Zurayda Hodiver.
 ## How to reach me
 The best way through [ admin at gedex dot web dot id ]. Or you may found me at:
 
-* [Github][1]
+* [GitHub][1]
 * [LinkedIn][2]
 
 ## Teaching
