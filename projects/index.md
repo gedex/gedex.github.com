@@ -7,7 +7,7 @@ layout: page
 ##  Electronics
 
 * [Simple Line Tracker](https://github.com/gedex/simple-line-tracker) &mdash; A simple line tracker robot powered by AT89C51 with five Photodiodes for sensing the line.
-* Simple Line Follower Robot With PID &mdash; Powered by ATMega16 with PID control system.
+* [Simple Line Follower Robot With PID Control System](https://github.com/gedex/semar-mesem-robot).
 * Simple Fire Fighting Robot &mdash; Powered by three microcontrollers (two ATMega16 and one AT90S2313) with Fuzzy Logic for navigation.
 * [PWM from ADC for Robot's Joystick](https://github.com/gedex/pwm-from-adc) &mdash; Many [ABU Robocon](http://en.wikipedia.org/wiki/ABU_Robocon) contestants from Indonesia use this kind of joystick to drive their robots.
 * [Digital Key Lock](https://github.com/gedex/digital-key-lock) &mdash; Digital key lock powered by AT89C51 interfaced with LCD, LEDs, buzzer and keypad.
