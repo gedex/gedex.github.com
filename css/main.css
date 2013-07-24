@@ -10,6 +10,13 @@ textarea {
     color: #222;
 }
 
+blockquote {
+    margin: 0;
+    padding: 0 1em;
+    border-left: 5px solid rgb(195, 193, 219);
+    font-style: italic;
+}
+
 body {
     font-size: 1em;
     line-height: 1.4;
