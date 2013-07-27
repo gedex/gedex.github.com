@@ -35,6 +35,7 @@ coming soon...
 
 * [Preview Github README](https://github.com/gedex/preview-github-readme.md) &mdash; Preview your local github's README.md.
 * [Algorithm and Data Structure in PHP](https://github.com/gedex/Algorithm-and-Data-Structure-in-PHP)
+* Contributor for [Geeklog]
 
 ## Node.js
 
@@ -44,6 +45,7 @@ coming soon...
 ## Python
 
 * [Template Buku](https://github.com/gedex/template-buku) &mdash; A template that allows you to write a book in Markdown syntax and compiles it into html book.
+* Contributor for [Melange, the Spice of Creation](https://code.google.com/p/soc/) during GSoC 2011.
 
 ## JavaScript
 
