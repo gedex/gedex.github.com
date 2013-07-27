@@ -35,7 +35,7 @@ coming soon...
 
 * [Preview Github README](https://github.com/gedex/preview-github-readme.md) &mdash; Preview your local github's README.md.
 * [Algorithm and Data Structure in PHP](https://github.com/gedex/Algorithm-and-Data-Structure-in-PHP)
-* Contributor for [Geeklog]
+* Contributor for [Geeklog](http://project.geeklog.net/cgi-bin/hgwebdir.cgi/geeklog/)
 
 ## Node.js
 
