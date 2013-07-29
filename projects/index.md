@@ -26,11 +26,13 @@ layout: page
 
 ## WordPress Plugins
 
-comming soon...
+* [WP_DPP](https://github.com/gedex/WP_DPP) &mdash; Applying design pattern in WordPress plugin. Served as plugins-to-learn in which design pattern can be applied.
+* [WP_Twitter_Client](https://github.com/gedex/WP_Twitter_Client) &mdash; Library to help WordPress developer working with Twitter REST API.
+* [WP_Instagram_Client](https://github.com/gedex/WP_Instagram_Client) &mdash; Library to help WordPress developer working with Instagram API.
 
 ## WordPress Themes
 
-coming soon...
+* I'm planning to port [gedex.web.id skin](https://github.com/gedex/gedex.github.com) to WordPress's theme.
 
 ## PHP
 
