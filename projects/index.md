@@ -54,7 +54,8 @@ coming soon...
 
 ## Other
 
-Please check out at [GitHub][1] and [my Google Code][2].
+Please check out at [GitHub][1] and [my Google Code][2]. You can see summary of my activities at GitHub from [The Open Source Report Card][3]
 
 [1]: http://github.com/gedex
 [2]: https://code.google.com/u/gedex.adc/
+[3]: http://osrc.dfm.io/gedex
