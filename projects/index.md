@@ -21,6 +21,7 @@ layout: page
 * [go-toggl](https://github.com/gedex/go-toggl) &mdash; Go library for accessing Toggl REST API
 * [go-twitterstream](https://github.com/gedex/go-twitterstream) &mdash; Go library for accessing Twitter's Stream API
 * [go-cloudflare](https://github.com/gedex/go-cloudflare) &mdash; Go library for accessking CloudFlare Client and Host APIs (WIP).
+* [gohn](https://github.com/gedex/gohn) &mdash; Hacker News in the terminal. Inspired by [this](http://andrewvos.com/2013/08/02/hacker-news-in-the-terminal/)
 * [preview-github-readme.go](https://github.com/gedex/preview-github-readme.go) &mdash; Go app to preview your GitHub's README.md.
 * Contributor for [go-github](https://github.com/gedex/go-github) &mdash; Go library for accessing the GitHub API
 
