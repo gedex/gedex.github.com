@@ -2,6 +2,7 @@
 title: Line Follower Robot dengan PID
 author: gedex
 layout: post
+excerpt: Line Follower Robot dengan PID
 thickbox:
   - thickbox
 pvc_views:
@@ -29,11 +30,11 @@ Sesuai janji saya, kali ini akan saya bahas robot line follower dengan sistem ko
 
 Bentuk jadinya robot :
 
-http://gedex.web.id/wp-content/uploads/2008/07/dsc00023.jpg
+<img src="http://gedex.web.id/wp-content/uploads/2008/07/dsc00023.jpg">
 
 Photo lainnya yang memperlihatkan rangkaian dan gear motor bisa dilihat di:
 
-http://picasaweb.google.co.uk/gedex.adc/SemarMesem
+[http://picasaweb.google.co.uk/gedex.adc/SemarMesem](http://picasaweb.google.co.uk/gedex.adc/SemarMesem)
 
 Semar mesem menggunakan 8 sensor di depan untuk mengikuti garis. Lebar garis yang ideal untuk diikuti adalah 1.5 – 2 cm dengan kemungkinan 2 – 3 sensor dapat mengenai garis. Langkah selanjutnya adalah melakukan mapping nilai sensor untuk mendapatkan *process variable* (PV). Kurang lebih seperti berikut (misal nilai 0 merepresentasikan sensor mengenai garis):
 
@@ -215,11 +216,11 @@ Keseluruhan [source code robot Semar Mesem dapat diunduh di sini][6]. Fitur menu
  [7]: http://www.youtube.com/watch?v=fgrwD3nvwLM
  [8]: http://www.youtube.com/watch?v=NnnVGzKcCh4
 
-Update
-Rangkaian dari Dadank:
-http://gedex.web.id/wp-content/uploads/2008/09/line-tracer.gif
+Update Rangkaian dari Dadank:
+
+<img src="http://gedex.web.id/wp-content/uploads/2008/09/line-tracer.gif">
 
 Referensi:
 
-*   http://en.wikipedia.org/wiki/PID_controller
-*   http://www.chibots.org/drupal/?q=node/339
+* [http://en.wikipedia.org/wiki/PID_controller](http://en.wikipedia.org/wiki/PID_controller)
+* [http://www.chibots.org/drupal/?q=node/339](http://www.chibots.org/drupal/?q=node/339)

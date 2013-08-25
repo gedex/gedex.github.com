@@ -2,6 +2,7 @@
 title: Harshad Number in Multiple Languages
 author: gedex
 layout: post
+excerpt: A Harshad or Niven number is a number that is divisible by the sum of its digits. Belows are one-liners of Harshad in different languages.
 ---
 
 [Harshad Number](http://en.wikipedia.org/wiki/Harshad_number) was a Thursday Code Puzzler from [DZone](http://java.dzone.com/articles/thursday-code-puzzler-harshad).
