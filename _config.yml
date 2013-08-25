@@ -23,7 +23,5 @@ feedburner: 'akedabagus'
 ga_username: 'UA-2410626-1'
 
 #build config
-server: true
-auto: true
-markdown: rdiscount
+markdown: kramdown
 pygments: true
