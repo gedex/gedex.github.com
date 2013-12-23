@@ -1,5 +1,5 @@
-{% if page.url == '/index.html' %}
-    {% assign seo_title = page.title %}
+{% if page.url == "/" %}
+    {% capture seo_title %}{{ site.name }} &raquo; {{ site.description }}{% endcapture %}
     {% assign seo_desc = site.description %}
 {% else %}
     {% capture seo_title %}{{ page.title }} &raquo; {{ site.name }}{% endcapture %}

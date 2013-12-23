@@ -2,6 +2,7 @@
 title: Quick Tips to Help You get Accepted on Google Summer of Code
 author: gedex
 layout: post
+excerpt: Quick Tips to Help You get Accepted on Google Summer of Code
 ---
 
 I’ve great news that, AFAIK, there are two students from Indonesia that
