@@ -2,6 +2,7 @@
 title: Need hundred of images for your project? Try imgdownloader
 author: gedex
 layout: post
+excerpt: "imgdownloader is a command line app, written in Go, to download images from various providers"
 ---
 
 [imgdownloader](https://github.com/gedex/imgdownloader) is a command line app, written in Go,
