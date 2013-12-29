@@ -30,6 +30,7 @@ layout: page
 
 ## WordPress Plugins
 
+* [Post to Gist](https://github.com/gedex/wp-post-to-gist) &mdash; Post to GitHub Gist every time a post is saved.
 * [MEXP Flickr](https://github.com/gedex/mexp-flickr) &mdash; Flickr extension for the Media Explorer plugin. This extension allows user to search photos from Flickr by text, tags and user ID.
 * [MEXP Picasa](https://github.com/gedex/mexp-picasa) &mdash; Picasa extension for the Media Explorer plugin. This extension allows user to search photos from Picasa by text, tag and user ID.
 * [WP_DPP](https://github.com/gedex/WP_DPP) &mdash; Applying design pattern in WordPress plugin. Served as plugins-to-learn in which design pattern can be applied.
