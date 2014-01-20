@@ -43,6 +43,7 @@ layout: page
 
 ## PHP
 
+* [php-janrain-api](https://github.com/gedex/php-janrain-api) &mdash; A simple Object Oriented wrapper for Janrain API, written with PHP5.
 * [Preview Github README](https://github.com/gedex/preview-github-readme.md) &mdash; Preview your local github's README.md.
 * [Algorithm and Data Structure in PHP](https://github.com/gedex/Algorithm-and-Data-Structure-in-PHP)
 * Contributor for [Geeklog](http://project.geeklog.net/cgi-bin/hgwebdir.cgi/geeklog/) during GSoC 2010.
