@@ -21,6 +21,7 @@ layout: page
 * [ginsta](https://github.com/gedex/ginsta) &mdash; Command line client written in Go that speaks to Instagram API.
 * [go-toggl](https://github.com/gedex/go-toggl) &mdash; Go library for accessing Toggl REST API
 * [go-twitterstream](https://github.com/gedex/go-twitterstream) &mdash; Go library for accessing Twitter's Stream API
+* [cli_chat](https://github.com/gedex/cli_chat) &mdash; Simple CLI based client and server for tcp based chat connection
 * [imgdownloader](https://github.com/gedex/imgdownloader) &mdash; Command line app to download images from images sharing sites.
 * [go-imgplaceholder](https://github.com/gedex/go-imgplaceholder) &mdash; A quick and simple image placeholder service. Inspired by [placehold.it](http://placehold.it/)
 * [go-cloudflare](https://github.com/gedex/go-cloudflare) &mdash; Go library for accessking CloudFlare Client and Host APIs (WIP).
