@@ -31,6 +31,7 @@ layout: page
 
 ## WordPress Plugins
 
+* [Search Tweets Widget](http://wordpress.org/plugins/search-tweets-widget/) &mdash; Provides Twitter query search, like `from:WordPress, OR from:photomatt`, and gets the search results rendered as a widget.
 * [Post to Gist](https://github.com/gedex/wp-post-to-gist) &mdash; Post to GitHub Gist every time a post is saved.
 * [MEXP Flickr](https://github.com/gedex/mexp-flickr) &mdash; Flickr extension for the Media Explorer plugin. This extension allows user to search photos from Flickr by text, tags and user ID.
 * [MEXP Picasa](https://github.com/gedex/mexp-picasa) &mdash; Picasa extension for the Media Explorer plugin. This extension allows user to search photos from Picasa by text, tag and user ID.
