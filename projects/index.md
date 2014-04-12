@@ -31,6 +31,7 @@ layout: page
 
 ## WordPress Plugins
 
+* [Slack](http://wordpress.org/plugins/slack) &mdash; Allows you to send notifications to Slack channels when certain events in WordPress occur.
 * [GitHub API](https://github.com/gedex/wp-github-api) &mdash; Contains easy-to-use API that uses WP HTTP API to make a request to GitHub API v3 resources.
 * [Search Tweets Widget](http://wordpress.org/plugins/search-tweets-widget/) &mdash; Provides Twitter query search, like `from:WordPress, OR from:photomatt`, and gets the search results rendered as a widget.
 * [Post to Gist](https://github.com/gedex/wp-post-to-gist) &mdash; Post to GitHub Gist every time a post is saved.
