@@ -32,6 +32,10 @@ layout: page
 ## WordPress Plugins
 
 * [Slack](http://wordpress.org/plugins/slack) &mdash; Allows you to send notifications to Slack channels when certain events in WordPress occur.
+* [Slack EDD](https://github.com/gedex/wp-slack-edd) &mdash; Send notifications to Slack channels whenever sales, in [EDD](https://easydigitaldownloads.com/), are made.
+* [Slack Gravity Forms](https://github.com/gedex/wp-slack-gravityforms) &mdash; Send notifications to Slack channels whenever new submission entries, for [Gravity Forms](http://www.gravityforms.com/), are received.
+* [Slack Contact Form 7](https://github.com/gedex/wp-slack-contact-form-7) &mdash; Send notifications to Slack channels whenever someone sent message through Contact Form 7.
+* [Slack WooCommerce](https://github.com/gedex/wp-slack-woocommerce) &mdash; Send notifications to Slack channels whenever payment in WooCommerce is marked as complete.
 * [GitHub API](https://github.com/gedex/wp-github-api) &mdash; Contains easy-to-use API that uses WP HTTP API to make a request to GitHub API v3 resources.
 * [Search Tweets Widget](http://wordpress.org/plugins/search-tweets-widget/) &mdash; Provides Twitter query search, like `from:WordPress, OR from:photomatt`, and gets the search results rendered as a widget.
 * [Post to Gist](https://github.com/gedex/wp-post-to-gist) &mdash; Post to GitHub Gist every time a post is saved.
