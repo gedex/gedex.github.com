@@ -37,6 +37,9 @@ layout: page
 * [Slack Contact Form 7](https://github.com/gedex/wp-slack-contact-form-7) &mdash; Send notifications to Slack channels whenever someone sent message through Contact Form 7.
 * [Slack WooCommerce](https://github.com/gedex/wp-slack-woocommerce) &mdash; Send notifications to Slack channels whenever payment in WooCommerce is marked as complete.
 * [GitHub API](https://github.com/gedex/wp-github-api) &mdash; Contains easy-to-use API that uses WP HTTP API to make a request to GitHub API v3 resources.
+* [GitHub Profile Widget](https://github.com/gedex/wp-gh-profile-widget) &mdash; Plugin extension for GitHub API plugin for showing off GitHub profile in a widget.
+* [GitHub Members Show-off](https://github.com/gedex/wp-gh-members-showoff) &mdash; Plugin extension for GitHub API plugin for showing off GitHub org members.
+
 * [Search Tweets Widget](http://wordpress.org/plugins/search-tweets-widget/) &mdash; Provides Twitter query search, like `from:WordPress, OR from:photomatt`, and gets the search results rendered as a widget.
 * [Post to Gist](https://github.com/gedex/wp-post-to-gist) &mdash; Post to GitHub Gist every time a post is saved.
 * [MEXP Flickr](https://github.com/gedex/mexp-flickr) &mdash; Flickr extension for the Media Explorer plugin. This extension allows user to search photos from Flickr by text, tags and user ID.
