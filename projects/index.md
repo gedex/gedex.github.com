@@ -36,6 +36,7 @@ layout: page
 * [Slack Gravity Forms](https://github.com/gedex/wp-slack-gravityforms) &mdash; Send notifications to Slack channels whenever new submission entries, for [Gravity Forms](http://www.gravityforms.com/), are received.
 * [Slack Contact Form 7](https://github.com/gedex/wp-slack-contact-form-7) &mdash; Send notifications to Slack channels whenever someone sent message through Contact Form 7.
 * [Slack WooCommerce](https://github.com/gedex/wp-slack-woocommerce) &mdash; Send notifications to Slack channels whenever payment in WooCommerce is marked as complete.
+* [Better HipChat](https://github.com/gedex/wp-better-hipchat) &mdash; Allows you to send notifications to HipChat rooms when certain events in WordPress occur.
 * [GitHub API](https://github.com/gedex/wp-github-api) &mdash; Contains easy-to-use API that uses WP HTTP API to make a request to GitHub API v3 resources.
 * [GitHub Profile Widget](https://github.com/gedex/wp-gh-profile-widget) &mdash; Plugin extension for GitHub API plugin for showing off GitHub profile in a widget.
 * [GitHub Members Show-off](https://github.com/gedex/wp-gh-members-showoff) &mdash; Plugin extension for GitHub API plugin for showing off GitHub org members.
