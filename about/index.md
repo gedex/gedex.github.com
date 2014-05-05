@@ -11,7 +11,7 @@ and my beautiful daughter Myeisha Zurayda Hodiver.
 The best way through [ admin at gedex dot web dot id ]. Or you can find me on:
 
 * [GitHub][1]
-* [LinkedIn][2]
+* [WordPress.org][6]
 
 ## Work experiences
 Since 2010 I’ve been working as a lecturer at Gunadarma University. I taught everything about computer which
@@ -33,3 +33,4 @@ Now, I work for [X-Team](http://x-team.com).
  [3]: https://docs.google.com/Doc?docid=0ARlhX_zps2IwZGQ3OHM4bXJfNWNzOHgzc2ho&hl=en
  [4]: http://www.geeklog.net/article.php/geeklog-1.8.0b1
  [5]: http://code.google.com/p/soc/
+ [6]: http://profiles.wordpress.org/akeda
