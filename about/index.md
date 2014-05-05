@@ -8,7 +8,7 @@ Hi, my name is Akeda Bagus, some friends call me gedex. I live with my beloved w
 and my beautiful daughter Myeisha Zurayda Hodiver.
 
 ## How to reach me
-The best way through [ admin at gedex dot web dot id ]. Or you may found me at:
+The best way through [ admin at gedex dot web dot id ]. Or you can find me on:
 
 * [GitHub][1]
 * [LinkedIn][2]
