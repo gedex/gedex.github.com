@@ -13,12 +13,11 @@ The best way through [ admin at gedex dot web dot id ]. Or you can find me on:
 * [GitHub][1]
 * [LinkedIn][2]
 
-## Teaching
+## Work experiences
 Since 2010 I’ve been working as a lecturer at Gunadarma University. I taught everything about computer which
 I doubt I'm able to. I also teached for IGOS (Indonesia Goes Open Source) Bekasi in my weekend.
 In 2013 I resigned from Gunadarma University and stopped being an IGOS' teacher.
 
-## Things I do for food
 I’ve been an engineer since I was in college. My first interest was embedded system. I built simple embedded
 system and robot, participated in robot competition with my friends and get paid for doing college's work on embedded problem.
 
