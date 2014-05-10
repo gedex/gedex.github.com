@@ -2,6 +2,7 @@
 title: TCP-based Client Server Chat in CLI
 author: gedex
 layout: post
+excerpt: TCP-based Client Server Chat written in Go
 ---
 
 I just created a simple project called [cli_chat](https://github.com/gedex/cli_chat).

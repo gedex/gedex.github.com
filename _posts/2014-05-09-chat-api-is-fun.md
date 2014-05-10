@@ -2,6 +2,7 @@
 title: Chat API is Fun
 author: gedex
 layout: post
+excerpt: Playing with Slack and HipChat API
 ---
 
 I've been playing with [Slack](https://slack.com) and [HipChat](https://hipchat.com) API lately. It's fun! I'm seeing Slack and
