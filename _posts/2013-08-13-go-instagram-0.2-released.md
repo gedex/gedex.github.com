@@ -2,6 +2,7 @@
 title: go-instagram 0.2 released
 author: gedex
 layout: post
+excerpt: go-instagram 0.2 released
 ---
 
 This is the first time [go-instagram](https://github.com/gedex/go-instagram) get tagged, 0.2.
