@@ -31,6 +31,7 @@ layout: page
 
 ## WordPress Plugins
 
+* [Simperium](https://github.com/gedex/wp-simperium) &mdash; This plugin is intended for developer to send data to Simperium.
 * [Slack](http://wordpress.org/plugins/slack) &mdash; Allows you to send notifications to Slack channels when certain events in WordPress occur.
 * [Slack EDD](https://github.com/gedex/wp-slack-edd) &mdash; Send notifications to Slack channels whenever sales, in [EDD](https://easydigitaldownloads.com/), are made.
 * [Slack Gravity Forms](https://github.com/gedex/wp-slack-gravityforms) &mdash; Send notifications to Slack channels whenever new submission entries, for [Gravity Forms](http://www.gravityforms.com/), are received.
