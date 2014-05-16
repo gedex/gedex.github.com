@@ -1,3 +1,9 @@
+---
+title: My PGP Public Key
+author: gedex
+layout: page
+---
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
