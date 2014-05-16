@@ -1,3 +1,4 @@
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
 Comment: GPGTools - https://gpgtools.org
@@ -29,3 +30,4 @@ NhNPb0I8EAk+hqEGiaZXcYa9eLO7V5kW47QWLdJuShsC9YYsEa9jg81at9CB3+Ot
 junNO6F3vObAtJf6oZQx4ARe4xAzq98+qTTOP8tS4M+/5dKlIYnU7cAL
 =OQX3
 -----END PGP PUBLIC KEY BLOCK-----
+```
