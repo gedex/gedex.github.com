@@ -13,6 +13,8 @@ The best way through [ admin at gedex dot web dot id ]. Or you can find me on:
 * [GitHub][1]
 * [WordPress.org][6]
 
+Have a dirty little secret to tell? Get my [public key](/about/key.html)
+
 ## Work experiences
 Since 2010 I’ve been working as a lecturer at Gunadarma University. I taught everything about computer which
 I doubt I'm able to. I also teached for IGOS (Indonesia Goes Open Source) Bekasi in my weekend.
