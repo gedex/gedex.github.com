@@ -16,6 +16,7 @@ layout: page
 
 ## Go
 
+* [yet-another-simple-note](https://github.com/gedex/yet-another-simple-note) &mdash; Go Martini powered REST API and Backbone.
 * [go-instagram](https://github.com/gedex/go-instagram) &mdash; Go library for accessing Instagram REST and Search APIs.
 * [go-inflector](https://github.com/gedex/inflector) &mdash; Go library that pluralizes and singularizes English nouns.
 * [ginsta](https://github.com/gedex/ginsta) &mdash; Command line client written in Go that speaks to Instagram API.
@@ -73,6 +74,7 @@ layout: page
 
 ## JavaScript
 
+* [yet-another-simple-note](https://github.com/gedex/yet-another-simple-note) &mdash; Go Martini powered REST API and Backbone.
 * [Tower of Hanoi](https://github.com/gedex/TowerOfHanoiJS) &mdash; JavaScript code to create Tower of Hanoi game.
 
 ## Other
