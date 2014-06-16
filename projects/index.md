@@ -28,7 +28,16 @@ layout: page
 * [go-cloudflare](https://github.com/gedex/go-cloudflare) &mdash; Go library for accessking CloudFlare Client and Host APIs (WIP).
 * [gohn](https://github.com/gedex/gohn) &mdash; Hacker News in the terminal. Inspired by [this](http://andrewvos.com/2013/08/02/hacker-news-in-the-terminal/)
 * [preview-github-readme](https://github.com/gedex/preview-github-readme) &mdash; Go app to preview your GitHub's README.md.
-* Contributor for [go-github](https://github.com/gedex/go-github) &mdash; Go library for accessing the GitHub API
+* Contributor for [go-github](https://github.com/gedex/go-github) &mdash; Go library for accessing the GitHub API.
+
+## JavaScript
+
+* [Info Capres 2014](https://github.com/gedex/info-capres-2014) &mdash; SPA (Single Page Application) about Indonesian 2014 Election powered by Backbone.js and Firebase. Candidates and election-related information are fetched from [Pemilu API](http://pemiluapi.org).
+* [yet-another-simple-note](https://github.com/gedex/yet-another-simple-note) &mdash; Go Martini powered REST API and Backbone.
+* [Tower of Hanoi](https://github.com/gedex/TowerOfHanoiJS) &mdash; JavaScript code to create Tower of Hanoi game.
+* [iRRT_web_port](https://github.com/gedex/iRRT_web_port) &mdash; iRRT web port (WIP).
+* [Image Placeholder](https://github.com/gedex/node-image-placeholder) &mdash; A ready web app (Node.js) to serve images for your image placeholder.
+* [YASnip](https://github.com/gedex/yasnip) &mdash; The pastebin-like idea web app (Node.js).
 
 ## WordPress Plugins
 
@@ -62,21 +71,10 @@ layout: page
 * [Algorithm and Data Structure in PHP](https://github.com/gedex/Algorithm-and-Data-Structure-in-PHP)
 * Contributor for [Geeklog](http://project.geeklog.net/cgi-bin/hgwebdir.cgi/geeklog/) during GSoC 2010.
 
-## Node.js
-
-* [Image Placeholder](https://github.com/gedex/node-image-placeholder) &mdash; A ready web app to serve images for your image placeholder.
-* [YASnip](https://github.com/gedex/yasnip) &mdash; The pastebin-like idea.
-
 ## Python
 
 * [Template Buku](https://github.com/gedex/template-buku) &mdash; A template that allows you to write a book in Markdown syntax and compiles it into html book.
 * Contributor for [Melange, the Spice of Creation](https://code.google.com/p/soc/) during GSoC 2011.
-
-## JavaScript
-
-* [yet-another-simple-note](https://github.com/gedex/yet-another-simple-note) &mdash; Go Martini powered REST API and Backbone.
-* [Tower of Hanoi](https://github.com/gedex/TowerOfHanoiJS) &mdash; JavaScript code to create Tower of Hanoi game.
-* [iRRT_web_port](https://github.com/gedex/iRRT_web_port) &mdash; iRRT web port (WIP).
 
 ## Other
 
