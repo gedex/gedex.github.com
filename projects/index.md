@@ -32,6 +32,7 @@ layout: page
 
 ## JavaScript
 
+* [GiphyStock](https://github.com/gedex/GiphyStock) &mdash; Stock your WordPress blog media with animated GIF from Giphy.
 * [Info Capres 2014](https://github.com/gedex/info-capres-2014) &mdash; SPA (Single Page Application) about Indonesian 2014 Election powered by Backbone.js and Firebase. Candidates and election-related information are fetched from [Pemilu API](http://pemiluapi.org).
 * [yet-another-simple-note](https://github.com/gedex/yet-another-simple-note) &mdash; Go Martini powered REST API and Backbone.
 * [Tower of Hanoi](https://github.com/gedex/TowerOfHanoiJS) &mdash; JavaScript code to create Tower of Hanoi game.
