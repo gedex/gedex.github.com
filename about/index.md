@@ -7,7 +7,7 @@ layout: page
 Hi, my name is Akeda Bagus, some friends call me gedex (which is the nickname I
 used when I first introduced to the net). I'm a passionate developer interested
 in making the web a better place. I'm a big believer in open source is making
-web a better place. I'm trying to be part of it by creating and contributing
+web a better place. I'm trying to be part of it by creating and contributing to
 open source projects.
 
 I live with my beloved wife Dwi Widiastuti and my beautiful daughter Myeisha
