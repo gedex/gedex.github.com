@@ -30,6 +30,7 @@ layout: page
 * [preview-github-readme](https://github.com/gedex/preview-github-readme) &mdash; Go app to preview your GitHub's README.md.
 * Contributor for [go-github](https://github.com/gedex/go-github) &mdash; Go library for accessing the GitHub API.
 * [go-simple-queue](https://github.com/gedex/go-simple-queue) &mdash; Simulating simple queue with Go.
+* [https://gist.github.com/gedex/e5a9d4fb0c1e25f31ef5](https://gist.github.com/gedex/e5a9d4fb0c1e25f31ef5) &mdash; Diff cleaned PHP logs (removes unnecessary parts in the logs).
 
 ## JavaScript
 
