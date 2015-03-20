@@ -16,6 +16,8 @@ layout: page
 
 ## Go
 
+* [wp-plugin-checker](https://github.com/gedex/wp-plugin-checker) &mdash; Travis-like to check plugins hosted at WP Plugin directory (WIP). [Video demonstrating the app](https://cloudup.com/c8LgYvGil4w). 
+* [simdoc](https://github.com/gedex/simdoc) &mdash; Go app to manage document (WIP).
 * [yet-another-simple-note](https://github.com/gedex/yet-another-simple-note) &mdash; Go Martini powered REST API and Backbone.
 * [go-instagram](https://github.com/gedex/go-instagram) &mdash; Go library for accessing Instagram REST and Search APIs.
 * [go-inflector](https://github.com/gedex/inflector) &mdash; Go library that pluralizes and singularizes English nouns.
