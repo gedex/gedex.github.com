@@ -36,7 +36,7 @@ programming I was able to work for number of clients incluuding PP, Samudera Ind
 etc. In 2010, I was Google Summer of Code participant for [Improve Configuration project][3]. The code has been merged in
 [1.8 beta release][4]. In 2011 I participated again as GSoC student for [Melange Organization][5].
 
-Now, I work for [XWP](https://xwp.co).
+Previously worked at [XWP](https://xwp.co). Now as a Code Wrangler at [Automattic](https://automattic.com).
 
  [1]: http://github.com/gedex
  [2]: http://linkedin.com/in/akedabagus
