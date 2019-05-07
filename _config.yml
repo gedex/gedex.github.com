@@ -2,7 +2,7 @@ name: "Akeda Bagus's Website"
 author: "Akeda Bagus"
 email: "admin@gedex.web.id"
 description: "Web developer from Indonesia"
-url: "http://gedex.web.id"
+url: "http://gedex.github.io"
 
 # posts per page
 paginate: 10
